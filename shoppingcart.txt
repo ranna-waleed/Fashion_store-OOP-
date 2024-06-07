@@ -1,0 +1,60 @@
+Ripped Jeans Blue,2
+4,4
+jeans,3
+dd,3
+f,2
+jeans - multi-colored - wide leg,2
+straight jeans,1
+ripped jeans blue,1
+black basic midi dress,1
+ripped jeans blue,1
+women's sleeveless blouse,1
+mascara
+mascara
+mascara3
+mascara4
+mascara1
+mascara1
+mascara2
+mascara3
+mascara3
+mascara3
+mascara3
+mascara2
+mascara3
+mascara
+mascara3
+mascara3
+mascara,,4
+mascara, 500,clothing,20, 3
+mascara, 500,clothing,20, 3
+mascara, 500,clothing,20, 3
+mascara, 4
+mascara, 4
+mascara, 5
+mascara, 3
+men's dress shirt, 3
+lipstick, 4
+lipstick, 4
+mascara, 5
+lipstick, 3
+mascara, 4
+lipstick, 3
+mascara, 2
+lipstick, 4
+lipstick, 5
+mascara, 3
+lipstick, 3
+mascara, 4
+mascara, 2
+mascara, 2
+lipstick, 4
+lipstick, 4
+mascara, 3
+mascara, 5
+lipstick, 3
+mascara, 1
+mascara, 2
+mascara, 4
+mascara, 2
+lipstick, 2

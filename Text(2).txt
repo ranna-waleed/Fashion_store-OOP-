@@ -1,0 +1,28 @@
+Women's Skinny Jeans,100,clothing,20
+Leather Belt for Men,350,accessory,50
+Men's Cotton T-Shirt,200,clothing,40
+Men's Leather Dress Shoes,1200,footwear,10
+Women's Sleeveless Blouse,300,clothing,12
+Men's Hooded Sweatshirt,450,clothing,20
+Women's Leather Handbag,800,accessory,30
+Men's Dress Shirt,600,clothing,10
+Women's Cotton Summer Dress,700,clothing,12
+Liquid Foundation,250,makeup,50
+Lipstick ,150,makeup,70
+Mascara ,200,makeup,12
+Eyeshadow Palette ,400,makeup,20
+Earrings ,100,jewelry,21
+Bracelet ,150,jewelry,10
+Necklace ,300,jewelry,14
+Sunglasses ,500,accessory,40
+Women's Watch ,700,accessory,47
+Men's Wallet ,400,accessory,10
+Ruffle Neck Midi Dress ,700,Dress,41
+Classic shirt Dress ,800,Dress,10
+Sportswear Future Icons Hooded Dress ,1700,Dress,45
+Black Basic Midi Dress,800,Dress,78
+Straight jeans,800,Pants,10
+Ripped Jeans Blue,1000,Pants,10
+Jeans - Multi-colored - Wide leg,600,Pants,10
+
+
